@@ -47,4 +47,4 @@ Project based on Three-Tier architecture:
 - password: 12345678
 
 
-##  <a href="http://taxiservice-env.eba-yp6spnnd.eu-central-1.elasticbeanstalk.com/login">**The link of this project on Amazon Web Services**</a>
+##  <a href="http://taxi-env.eba-hvpvyvpu.us-east-1.elasticbeanstalk.com/login">**The link of this project on Amazon Web Services**</a>
