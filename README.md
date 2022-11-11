@@ -42,6 +42,9 @@ Project based on Three-Tier architecture:
 6. Run project
 
 ### Or you can use the existing DB with parameters specified in ConnectionUtil
+#### Application login data:
+- email: user1@gmail.com 
+- password: 12345678
 
 
 ##  <a href="https://">**The link of this project on Heroku**</a>
