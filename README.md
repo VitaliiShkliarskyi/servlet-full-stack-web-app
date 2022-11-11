@@ -41,5 +41,7 @@ Project based on Three-Tier architecture:
 5. Configure Apache Tomcat
 6. Run project
 
+### Or you can use the existing DB with parameters specified in ConnectionUtil
+
 
 ##  <a href="https://">**The link of this project on Heroku**</a>
