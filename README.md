@@ -1,7 +1,7 @@
 # 🚖 TAXI-SERVICE 🚖
 
 ##  Description
-A simple web-application that supports authentication, registration and other CRUD operations
+A simple web-application built on Servlets that supports authentication, registration and other CRUD operations
 
 ##  Project structure
 Project based on Three-Tier architecture:
