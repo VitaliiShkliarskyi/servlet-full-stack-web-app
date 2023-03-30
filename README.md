@@ -1,4 +1,4 @@
-# 🚖 TAXI-SERVICE 🚖
+![Header](Taxi-service.jpeg)
 
 ##  Description
 A simple web-application built on Servlets that supports authentication, registration and other CRUD operations
