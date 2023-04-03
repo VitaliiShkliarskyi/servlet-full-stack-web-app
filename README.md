@@ -56,15 +56,7 @@ Project based on Three-Tier architecture:
 ---
 
 ## Quickstart
-### The application is already deployed on the Amazon server, so you can test it by simply following the <a href="http://app-env.eba-hvpvyvpu.us-east-1.elasticbeanstalk.com/login"> **link** </a>
 
-*Use the following credentials to login:*
-- email: user1@gmail.com
-- password: 12345678
-
-*Or you can register as a new user, log in and use all the functionality in the same way*
-
-### If you want to use your database or dive into the details of the implementation, follow the instructions below:
 1. Fork this repository
 2. Clone the project to your computer
 3. Install MySQL
@@ -91,7 +83,9 @@ Project based on Three-Tier architecture:
 - ***Application context***: `"/"`
 10. Run project
 
-**Or you can leave all the settings unchanged and use the cloud database that is already connected and contains test data. The credentials are the same as described under the Amazon Web Services link**
+**Or you can leave all the settings unchanged and use the cloud database the following credentials:**
+- email: user1@gmail.com
+- password: 12345678
 
 ---
 
