@@ -1,7 +1,7 @@
 ![Header](src/main/resources/pictures/car-pool.jpeg)
 
 ##  Description
-A full-stack Java application that uses Servlets and JDBC for the back-end and JSP, HTML, and CSS for the front-end.
+A Full Stack Java application that uses Servlets and JDBC for the back-end and JSP, HTML, and CSS for the front-end.
 The application supports authentication, registration, and other CRUD operations.
 Tomcat is used to handle all requests, ensuring efficient performance.
 
@@ -37,6 +37,21 @@ Project based on Three-Tier architecture:
 - JSP
 - HTML, CSS
 - Cloud services
+
+---
+
+## Implementation details
+- **Models** represent database tables
+- **ConnectionUtil** manages the database connection
+- **DAOs** are responsible for all database interactions
+- **Services** perform business logic and use DAOs for data access
+- All interaction client-server occurs through **Controllers**
+- **Injector** is used for dependency injection
+- **JSP** pages are used for rendering **HTML** and **CSS** to the client
+- **AuthenticationFilter** is implemented to control access to resources
+- The **`web.xml`** file stores application configuration information
+- The **`resources/init_db.sql`** contains statements to create the schema and tables in the database
+- **Tomcat** handles all requests for efficient performance
 
 ---
 
@@ -76,8 +91,7 @@ Project based on Three-Tier architecture:
 - ***Application context***: `"/"`
 10. Run project
 
-**Or you can leave all the settings in the ConnectionUtil.java class and use the cloud database that is already connected and contains test data. The credentials are the same as described under the Amazon Web Services link**
-
+**Or you can leave all the settings unchanged and use the cloud database that is already connected and contains test data. The credentials are the same as described under the Amazon Web Services link**
 
 ---
 
