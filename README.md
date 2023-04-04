@@ -83,7 +83,7 @@ Project based on Three-Tier architecture:
 - ***Application context***: `"/"`
 10. Run project
 
-**Or you can leave all the settings unchanged and use the cloud database the following credentials:**
+**Or you can leave all the settings unchanged and use the cloud database with the following credentials:**
 - email: user1@gmail.com
 - password: 12345678
 
